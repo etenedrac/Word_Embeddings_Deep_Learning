@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\DL\\Laboratories\\Lab3\\Practice\\log\\model.ckpt"
+all_model_checkpoint_paths: "D:\\DL\\Laboratories\\Lab3\\Practice\\log\\model.ckpt"
